@@ -1,0 +1,236 @@
+body{
+    overflow: hidden;
+}
+.div1{
+    
+    margin: 39px 350px 0px 350px;
+    height: 580px;
+    
+}
+.div2{
+    
+    position: relative;
+    left: 885px;
+    top: -567px;
+
+    height: 393px ;
+    width: 348px ;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+}
+.dis_img{
+    margin: 0px 0px 0px 77px;
+    width: 468px;
+    height: 634px;
+    
+}
+.img_pst{
+    position: relative;
+    right: 314px;
+    top: -68px;
+}
+.ic_img{
+    height: 539px;
+    width: 250px;
+}
+.div2_foto1{
+    position: relative;
+    left: 87px;
+    bottom: -46px;
+}
+.input1{
+    outline: 0;
+    background: rgba(var(--b3f,250,250,250),1);
+    
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    border-radius: 2.5px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    padding: 3px 0px 3px 7.8px;
+    position: relative;
+    left: 40px;
+    bottom: -77px;
+    width: 258px;
+    height: 30px;
+}
+.input2{
+    outline: 0;
+    background: rgba(var(--b3f,250,250,250),1);
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    border-radius: 2.5px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    padding: 2px 0px 3px 7.8px;
+    position: relative;
+    left: 40px;
+    bottom: -84px;
+    width: 258px;
+    height: 31px;
+}
+.btn{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-weight:500;
+    font-size: 14px;
+    line-height: 16px;
+    color: aliceblue;
+    background-color: #b2dffc ;
+    border-radius: 3px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    position: relative;
+    left: 40px;
+    bottom: -97px;
+    width: 268px;
+    height: 30.5px;
+}
+.cizgi{
+    background-color:#dbdbdb;
+    width: 97px;
+    height: 1px;
+    position:relative;
+    top: 121px;
+    left: 40px;
+}
+.yada{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color: #8e8e8e;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 18px;
+    position:relative;
+    top: 112px;
+    left: 155.5px;
+    width: 45px;
+}
+.cizgi2{
+    background-color:#dbdbdb;
+    width: 97px;
+    height: 1px;
+    position:relative;
+    top: 102px;
+    left: 210px;
+}
+.faceicon{
+    width: 16.5px;
+    height: 15.5px;
+    position:relative;
+    top: 139px;
+    left: 93px;
+}
+.facegrs{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color: #385185;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+    position:relative;
+    top: 136px;
+    left: 96.6px;
+}
+.sifreunut{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    position:relative;
+    top: 172.5px;
+    left: -38.5px;
+    font-size: 12px;
+    line-height: 0px;
+    color: #00376b;
+    color: rgba(var(--fe0,0,55,107),1);
+    text-decoration: none;
+}
+.div3{
+    position: relative;
+    left: 885px;
+    top: -557px;
+
+    height: 61px ;
+    width: 348px ;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+}
+.hesabinyok{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color: #262626;
+    color: rgba(var(--i1d,38,38,38),1);
+    font-size: 14px;
+    margin: 15px;
+
+    position:relative;
+    top: 21px;
+    left: 82.5px;
+}
+.kaydol{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color: #0095f6;
+    font-size: 14px;
+    position:relative;
+    top: 21px;
+    left: 67.5px;
+    font-weight: 500;
+    line-height: 0px;
+}
+.div4{
+    position: relative;
+    left: 1007px;
+    top: -536px;
+}
+.uygindir{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color: #262626;
+    color: rgba(var(--i1d,38,38,38),1);
+    font-size: 14px;
+
+    
+    line-height: 0px;
+}
+.uygimg1{
+    
+
+    width: 136px ;
+    height: 41px;
+    
+    position: relative;
+    top: 18px;
+    left: -86px;
+}
+.uygimg2{
+    position: relative;
+    top: 18px;
+    left: -83px;
+
+    width: 135px ;
+    height: 41px;
+}
+.footer{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color: #8e8e8e;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    position: relative;
+    left: 369px;
+    top: -460px;
+}
+.footer2{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color: #8e8e8e;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    position: relative;
+    left: 676px;
+    top: -465px;
+}
+.footer3{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color: #8e8e8e;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    position: relative;
+    left: 743px;
+    top: -458px;
+}
+.yazi{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif ;
+}
